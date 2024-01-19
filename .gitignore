@@ -26,3 +26,5 @@ coverage.json
 
 # Husky
 .husky
+
+typechain-types
